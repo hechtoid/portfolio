@@ -189,6 +189,9 @@ a {
 a:active,
 a:focus,
 a:hover {
-	color: #824027
+	color: #347d06
 }
 
+.icon-ruby{
+  color: red;
+}
