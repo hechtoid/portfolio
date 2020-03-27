@@ -195,3 +195,10 @@ a:hover {
 .icon-ruby{
   color: red;
 }
+.skillname{
+	font-size: 1rem;
+  }
+
+.dev-icons li{
+	text-align: center;
+  }
