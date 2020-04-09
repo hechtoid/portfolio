@@ -69,17 +69,24 @@ p.lead {
 .social-icons a:last-child {
 	margin-right: 0
 }
-
+.social-icons a{
+	transition: 0.1s;
+}
 .social-icons a:hover {
-	background-color: #42007E
+	background-color: #42007E;
+	transition: 0.2s;
 }
 
 .dev-icons {
 	font-size: 3rem
 }
+.dev-icons .list-inline-item i{
+	transition: 0.1s;
 
+}
 .dev-icons .list-inline-item i:hover {
-	color: #42007E
+	color: #42007E;
+	transition: 0.2s;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -183,17 +190,23 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-	color: #42007E
+	color: #42007E;
+	transition: 0.1s;
+
 }
 
 a:active,
 a:focus,
 a:hover {
-	color: #347d06
+	color: #347d06;
+	transition: 0.1s;
 }
 
 .icon-ruby{
   color: red;
+}
+.fa-react{
+	color: #61DAFB;
 }
 .skillname{
 	font-size: 1rem;
