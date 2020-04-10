@@ -201,12 +201,24 @@ a:hover {
 	color: #347d06;
 	transition: 0.1s;
 }
-
+.icon-debian{
+	color: #A80030;
+}
+.icon-shell{
+	margin-left: 3px;
+}
 .icon-ruby{
   color: red;
+  margin-left: 5px;
+}
+.fa-js-square{
+	color: #F0DB4F;
 }
 .fa-react{
 	color: #61DAFB;
+}
+.fa-node-js{
+	color: #679E63;
 }
 .skillname{
 	font-size: 1rem;
