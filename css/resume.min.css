@@ -6,7 +6,7 @@
 body {
 	font-family: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 	padding-top: 54px;
-	color: #868e96
+	color: #868e96;
 }
 
 @media (min-width:992px) {
@@ -205,11 +205,21 @@ a:hover {
 	color: #A80030;
 }
 .icon-shell{
+	margin-left: 5px;
+}
+.icon-shell div{
 	margin-left: 3px;
+	font-style: normal;
 }
 .icon-ruby{
   color: red;
-  margin-left: 5px;
+  margin-left: 7px;
+}
+.icon-ruby div{
+	color:  #868e96;
+	font-style: normal;
+	margin-left: 5px;
+
 }
 .fa-js-square{
 	color: #F0DB4F;
