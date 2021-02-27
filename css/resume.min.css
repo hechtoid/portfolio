@@ -206,19 +206,26 @@ a:hover {
 }
 .icon-shell{
 	margin-left: 5px;
+	color: #00FF00;
+	
 }
 .icon-shell div{
 	margin-left: 3px;
 	font-style: normal;
+	color:  #868e96;
+}
+.icon-python{
+	margin-left: 5px;
+	font-style: normal;
 }
 .icon-ruby{
   color: red;
-  margin-left: 7px;
+  margin-left: 15px;
 }
 .icon-ruby div{
 	color:  #868e96;
 	font-style: normal;
-	margin-left: 5px;
+	margin-left: 10px;
 
 }
 .fa-js-square{
