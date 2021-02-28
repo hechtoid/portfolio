@@ -206,7 +206,7 @@ a:hover {
 }
 .icon-shell{
 	margin-left: 5px;
-	color: #00FF00;
+	color: #10E21E;
 	
 }
 .icon-shell div{
@@ -215,7 +215,11 @@ a:hover {
 	color:  #868e96;
 }
 .icon-python{
-	margin-left: 5px;
+	margin-left: 10px;
+	font-style: normal;
+}
+.icon-python div{
+	color:  #868e96;
 	font-style: normal;
 }
 .icon-ruby{
