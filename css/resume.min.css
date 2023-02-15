@@ -248,3 +248,13 @@ a:hover {
 .dev-icons li{
 	text-align: center;
   }
+.typescript-icon {
+    max-width: 2.65rem;
+    margin-bottom: 12px;
+    transition: 0.2s;
+}
+
+.typescript-icon:hover {
+	/* background-color: #42007E; */
+	transition: 0.2s;
+}
